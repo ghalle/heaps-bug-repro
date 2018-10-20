@@ -1,0 +1,15 @@
+# class paths
+-cp src
+
+# flags
+# -D analyzer-optimize
+
+# entry point
+-main Main
+
+# libraries
+-lib heaps
+-lib hldx
+
+# output
+-hl bin/game.hl
